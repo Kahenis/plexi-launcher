@@ -1,0 +1,6 @@
+{
+  "version": "0.3.1",
+  "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
+  "test": true,
+  "notes": "Lignes d'applications en premier, lignes déplaçables (poignée ⇅), vidéos personnelles exclues, mise à jour automatique."
+}
