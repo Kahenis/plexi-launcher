@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
+  "version": "0.4.0",
   "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
   "test": true,
-  "notes": "Lignes d'applications en premier, lignes déplaçables (poignée ⇅), vidéos personnelles exclues, mise à jour automatique."
+  "notes": "Fonds Bing (images du jour et archive), fonds Chromecast retirés, la ligne suit l'application déplacée."
 }
