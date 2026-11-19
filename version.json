@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
   "test": true,
-  "notes": "Défilement fluide, fondu sous la zone de texte, vérification de version avant d'installer Plexi Play, messages qui s'effacent, option nom des applis au focus."
+  "notes": "Le focus passe à l'application voisine quand une appli est masquée, retirée ou désinstallée."
 }
