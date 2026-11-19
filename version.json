@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
   "test": true,
-  "notes": "Fonds Bing (images du jour et archive), fonds Chromecast retirés, la ligne suit l'application déplacée."
+  "notes": "Défilement fluide, fondu sous la zone de texte, vérification de version avant d'installer Plexi Play, messages qui s'effacent, option nom des applis au focus."
 }
