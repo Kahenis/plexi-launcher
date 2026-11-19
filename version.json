@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
+  "version": "0.4.4",
   "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
   "test": true,
-  "notes": "Glissement des lignes plus doux, déplacement d'une ligne en deux clics sur ⇅, Plexi Play en tête des applications."
+  "notes": "Défilement et agrandissement instantanés : plus aucune animation."
 }
