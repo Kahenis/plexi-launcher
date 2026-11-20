@@ -1,6 +1,6 @@
 {
-  "version": "0.4.5",
+  "version": "0.5.0",
   "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
   "test": true,
-  "notes": "Glissement court et rapide (110 ms), coupé quand une touche est maintenue, réglage Animation (Instantanée, Rapide, Douce)."
+  "notes": "Fenêtre « 1er lancement » : choix des applications à afficher ou à cacher, nom des applications au focus. Fond d'écran Bing par défaut."
 }
