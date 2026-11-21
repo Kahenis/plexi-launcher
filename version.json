@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "url": "https://raw.githubusercontent.com/Kahenis/plexi-launcher/main/Plexilauncher.apk",
   "test": true,
-  "notes": "Ouverture d'une fiche dans Plexi Play sans le relancer (plus de rechargement)."
+  "notes": "Plus de double Plexi Play : la fiche s'ouvre dans la fenêtre déjà ouverte (Plexi Play 1.9.3.7+), ou Plexi Play est relancé sur la fiche avec une version plus ancienne."
 }
